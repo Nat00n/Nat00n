@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m @Nat00n
+- 👋 Hi, I’m @Nat00n | Nathan Douglas
 - 👀 I’m interested in games and software development
 - 🌱 I’m currently studying at the University of Aberdeen
-- 💞️ I’m looking to collaborate on game and software development projects
+- 👥 I’m looking to collaborate on game and software development projects
 - 📫 How to reach me : nathanabz@icloud.com | www.linkedin.com/in/nathan-doug
